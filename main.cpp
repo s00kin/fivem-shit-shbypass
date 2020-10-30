@@ -1,4 +1,4 @@
-   while (true) // writeline
+   while (true) // i dont like shit shbypass x) discord.gg/sokin
     {
         *(BYTE*)(CustomAPI::GetModuleA("gta-core-five") + 0xDA898) = 1;
         
